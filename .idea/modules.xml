@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/getway/getway.iml" filepath="$PROJECT_DIR$/getway/getway.iml" />
       <module fileurl="file://$PROJECT_DIR$/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/inventory-service/inventory-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/micro-demo-3.iml" filepath="$PROJECT_DIR$/micro-demo-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ministere-finance-service/ministere-finance-service.iml" filepath="$PROJECT_DIR$/ministere-finance-service/ministere-finance-service.iml" />
     </modules>
   </component>
 </project>

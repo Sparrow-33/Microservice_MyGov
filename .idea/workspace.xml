@@ -5,44 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="981d7ce1-e9d8-4295-8fce-0703cfc15589" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/customer/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/micro/customer/CustomerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/micro/customer/entities/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/micro/customer/entities/CustomerProjection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/main/java/com/micro/customer/repository/CustomerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/customer/src/test/java/com/micro/customer/CustomerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/src/main/java/com/discovery/discoveryservice/DiscoveryServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/discovery-service/src/test/java/com/discovery/discoveryservice/DiscoveryServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getway/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getway/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getway/src/main/java/com/micro/getway/GetwayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getway/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getway/src/test/java/com/micro/getway/GetwayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_postgresql_postgresql_42_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ministere-finance-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ministere-finance-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ministere-finance-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ministere-finance-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ministere-finance-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ministere-finance-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ministere-finance-service/src/main/java/com/ministere/ministerefinanceservice/MinistereFinanceServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ministere-finance-service/src/test/java/com/ministere/ministerefinanceservice/MinistereFinanceServiceApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/getway" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ministere-finance-service" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -89,7 +67,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/YC/Documents/Ycode/2eme annee/micro-demo-3/discovery-service",
+    "last_opened_file_path": "C:/Users/YC/Documents/Ycode/2eme annee/micro-demo-3/ministere-finance-service",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
@@ -106,7 +84,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.GetwayApplication">
+  <component name="RunManager" selected="Spring Boot.MinistereFinanceServiceApplication">
     <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="customer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.micro.customer.CustomerApplication" />
@@ -135,6 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinistereFinanceServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ministere-finance-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ministere.ministerefinanceservice.MinistereFinanceServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -145,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675700124914</updated>
       <workItem from="1675700126754" duration="1615000" />
-      <workItem from="1675758907463" duration="25011000" />
+      <workItem from="1675758907463" duration="31387000" />
     </task>
     <servers />
   </component>
