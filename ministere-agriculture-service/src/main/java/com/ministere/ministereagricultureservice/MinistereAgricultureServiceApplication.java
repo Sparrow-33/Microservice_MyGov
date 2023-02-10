@@ -18,22 +18,22 @@ public class MinistereAgricultureServiceApplication {
         SpringApplication.run(MinistereAgricultureServiceApplication.class, args);
     }
 
-    @Bean
-    CommandLineRunner commandLineRunner(AgrTransactionRepository agr) {
-        return args -> {
-           agr.saveAll(
-                   List.of(
-                           Transaction.builder().nom("AGR-T-1")
-                                   .description("FIRST TRANSACTION")
-                                   .date( LocalDate.now()).ministere("AGR").build(),
-                           Transaction.builder().nom("AGR-T-2")
-                                   .description("SECOND TRANSACTION")
-                                   .date( LocalDate.now()).ministere("AGR").build(),
-                           Transaction.builder().nom("AGR-T-3")
-                                   .description("THIRD TRANSACTION")
-                                   .date( LocalDate.now()).ministere("AGR").build()
-                   )
-           );
-        };
-    }
+//    @Bean
+//    CommandLineRunner commandLineRunner(AgrTransactionRepository agr) {
+//        return args -> {
+//           agr.saveAll(
+//                   List.of(
+//                           Transaction.builder().nom("AGR-T-1")
+//                                   .description("FIRST TRANSACTION")
+//                                   .date( LocalDate.now()).ministere("AGR").build(),
+//                           Transaction.builder().nom("AGR-T-2")
+//                                   .description("SECOND TRANSACTION")
+//                                   .date( LocalDate.now()).ministere("AGR").build(),
+//                           Transaction.builder().nom("AGR-T-3")
+//                                   .description("THIRD TRANSACTION")
+//                                   .date( LocalDate.now()).ministere("AGR").build()
+//                   )
+//           );
+//        };
+//    }
 }
