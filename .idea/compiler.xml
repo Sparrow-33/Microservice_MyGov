@@ -12,6 +12,7 @@
         <module name="inventory-service" />
         <module name="discovery-service" />
         <module name="customer" />
+        <module name="ministere-agriculture-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="discovery-service" target="17" />
       <module name="getway" target="17" />
       <module name="inventory-service" target="17" />
+      <module name="ministere-agriculture-service" target="17" />
       <module name="ministere-finance-service" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -28,6 +30,7 @@
       <module name="discovery-service" options="-parameters" />
       <module name="getway" options="-parameters" />
       <module name="inventory-service" options="-parameters" />
+      <module name="ministere-agriculture-service" options="-parameters" />
       <module name="ministere-finance-service" options="-parameters" />
     </option>
   </component>
