@@ -15,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -58,7 +58,8 @@
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
-      "postgresql"
+      "postgresql",
+      "elasticsearch"
     ]
   }
 }]]></component>
@@ -74,7 +75,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MinistereAgricultureServiceApplication">
+  <component name="RunManager" selected="Spring Boot.MinistereFinanceServiceApplication">
     <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="customer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.micro.customer.CustomerApplication" />
@@ -127,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675700124914</updated>
       <workItem from="1675700126754" duration="1615000" />
-      <workItem from="1675758907463" duration="41531000" />
+      <workItem from="1675758907463" duration="51805000" />
     </task>
     <servers />
   </component>
