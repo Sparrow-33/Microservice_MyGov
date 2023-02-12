@@ -17,6 +17,6 @@ tout moment l’administrateur peut ajouter le département q
 u’il souhaite et ajouter les salariés qui seront attachés à ce département.
 
 ## Conception
-> [Cahier des Charges]()
+> [Cahier des Charges](https://www.canva.com/design/DAFaYRBwBkg/XlkvWeqUjZ4w2eybcuGQsw/view?utm_content=DAFaYRBwBkg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 > [Diagrammes des classes](https://lucid.app/lucidchart/0b56fb37-5b0b-4954-86ff-d3f70bb1f9fd/edit?viewport_loc=-633%2C1176%2C3231%2C1417%2C0_0&invitationId=inv_fde7d470-6772-49e1-8f34-692af40b3a36)
